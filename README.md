@@ -1,4 +1,9 @@
 # MessengerTunnel
+
+![How it works](https://i.imgur.com/67k5adv.png "How it works")
+
+Author: MonokaiJs (https://fb.me/MonokaiJsp | https://omfg.vn)
+
 ### Requirements
 1. NodeJs 6 with NPM or above
 2. Server/Computer supports NodeJs
